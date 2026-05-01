@@ -1,0 +1,67 @@
+Line 01 - 02__Total Active Power/Terminal i in MW
+Line 01 - 02__Total Reactive Power/Terminal i in Mvar
+Line 01 - 02__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 01 - 39__Total Active Power/Terminal i in MW
+Line 01 - 39__Total Reactive Power/Terminal i in Mvar
+Line 01 - 39__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 02 - 25__Total Active Power/Terminal i in MW
+Line 02 - 25__Total Reactive Power/Terminal i in Mvar
+Line 03 - 18__Total Active Power/Terminal i in MW
+Line 03 - 18__Total Reactive Power/Terminal i in Mvar
+Line 03 - 18__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 05 - 08__Total Reactive Power/Terminal i in Mvar
+Line 09 - 39__Total Active Power/Terminal i in MW
+Line 15 - 16__Total Reactive Power/Terminal i in Mvar
+Line 16 - 17__Total Reactive Power/Terminal i in Mvar
+Line 16 - 19__Total Reactive Power/Terminal i in Mvar
+Line 16 - 21__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 16 - 24__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 21 - 22__Total Reactive Power/Terminal i in Mvar
+Line 21 - 22__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 22 - 23__Total Active Power/Terminal i in MW
+Line 23 - 24__Total Reactive Power/Terminal i in Mvar
+Line 23 - 24__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 25 - 26__Total Active Power/Terminal i in MW
+Line 26 - 27__Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 26 - 29__Total Active Power/Terminal i in MW
+Line 26 - 29__Total Reactive Power/Terminal i in Mvar
+Line 28 - 29__Total Reactive Power/Terminal i in Mvar
+G 01__Speed in p.u.
+G 01__Positive-Sequence, Active Power in MW
+G 01__Positive-Sequence, Reactive Power in Mvar
+G 01__Excitation Current (non-reciprocal p.u. system) in p.u.
+G 04__Excitation Current (non-reciprocal p.u. system) in p.u.
+G 05__Positive-Sequence, Reactive Power in Mvar
+G 06__Excitation Current (non-reciprocal p.u. system) in p.u.
+G 08__Speed in p.u.
+G 08__Excitation Current (non-reciprocal p.u. system) in p.u.
+G 09__Positive-Sequence, Reactive Power in Mvar
+G 09__Excitation Current (non-reciprocal p.u. system) in p.u.
+G 09__firel in deg
+G 10__Speed in p.u.
+G 10__Positive-Sequence, Reactive Power in Mvar
+Bus 01__u1, Magnitude in p.u.
+Bus 08__u1, Magnitude in p.u.
+Bus 15__u1, Magnitude in p.u.
+Bus 17__u1, Magnitude in p.u.
+Bus 19__u1, Magnitude in p.u.
+Bus 20__u1, Magnitude in p.u.
+Bus 21__u1, Magnitude in p.u.
+Bus 27__u1, Magnitude in p.u.
+Bus 28__u1, Magnitude in p.u.
+Bus 34__u1, Magnitude in p.u.
+Bus 36__u1, Magnitude in p.u.
+Bus 39__u1, Magnitude in p.u.
+B_L03__u1, Magnitude in p.u.
+B_L03__Electrical Frequency in p.u.
+B_L15__u1, Magnitude in p.u.
+B_L15__Electrical Frequency in p.u.
+B_L18__u1, Magnitude in p.u.
+B_L20__Electrical Frequency in p.u.
+B_L24__Electrical Frequency in p.u.
+B_L26__u1, Magnitude in p.u.
+B_L27__u1, Magnitude in p.u.
+B_L27__Electrical Frequency in p.u.
+B_L28__u1, Magnitude in p.u.
+B_L28__Electrical Frequency in p.u.
+NSG_2__Active Power in MW

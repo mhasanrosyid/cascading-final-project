@@ -1,0 +1,251 @@
+B_L03_u1, Magnitude in p.u.
+B_L04_u1, Magnitude in p.u.
+B_L07_u1, Magnitude in p.u.
+B_L08_u1, Magnitude in p.u.
+B_L12_u1, Magnitude in p.u.
+B_L15_u1, Magnitude in p.u.
+B_L16_u1, Magnitude in p.u.
+B_L18_u1, Magnitude in p.u.
+B_L20_u1, Magnitude in p.u.
+B_L21_u1, Magnitude in p.u.
+B_L23_u1, Magnitude in p.u.
+B_L24_u1, Magnitude in p.u.
+B_L25_u1, Magnitude in p.u.
+B_L26_u1, Magnitude in p.u.
+B_L27_u1, Magnitude in p.u.
+B_L28_u1, Magnitude in p.u.
+B_L29_u1, Magnitude in p.u.
+Bus 01_u1, Magnitude in p.u.
+Bus 02_u1, Magnitude in p.u.
+Bus 03_u1, Magnitude in p.u.
+Bus 04_u1, Magnitude in p.u.
+Bus 05_u1, Magnitude in p.u.
+Bus 06_u1, Magnitude in p.u.
+Bus 07_u1, Magnitude in p.u.
+Bus 08_u1, Magnitude in p.u.
+Bus 09_u1, Magnitude in p.u.
+Bus 10_u1, Magnitude in p.u.
+Bus 11_u1, Magnitude in p.u.
+Bus 12_u1, Magnitude in p.u.
+Bus 13_u1, Magnitude in p.u.
+Bus 14_u1, Magnitude in p.u.
+Bus 15_u1, Magnitude in p.u.
+Bus 16_u1, Magnitude in p.u.
+Bus 17_u1, Magnitude in p.u.
+Bus 18_u1, Magnitude in p.u.
+Bus 19_u1, Magnitude in p.u.
+Bus 20_u1, Magnitude in p.u.
+Bus 21_u1, Magnitude in p.u.
+Bus 22_u1, Magnitude in p.u.
+Bus 23_u1, Magnitude in p.u.
+Bus 24_u1, Magnitude in p.u.
+Bus 25_u1, Magnitude in p.u.
+Bus 26_u1, Magnitude in p.u.
+Bus 27_u1, Magnitude in p.u.
+Bus 28_u1, Magnitude in p.u.
+Bus 29_u1, Magnitude in p.u.
+Bus 30_u1, Magnitude in p.u.
+Bus 31_u1, Magnitude in p.u.
+Bus 32_u1, Magnitude in p.u.
+Bus 33_u1, Magnitude in p.u.
+Bus 34_u1, Magnitude in p.u.
+Bus 35_u1, Magnitude in p.u.
+Bus 36_u1, Magnitude in p.u.
+Bus 37_u1, Magnitude in p.u.
+Bus 38_u1, Magnitude in p.u.
+Bus 39_u1, Magnitude in p.u.
+Bus_NSG_1_u1, Magnitude in p.u.
+Bus_NSG_2_u1, Magnitude in p.u.
+Bus_NSG_3_u1, Magnitude in p.u.
+Line 01 - 02_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 01 - 39_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 02 - 03_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 02 - 25_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 03 - 04_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 03 - 18_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 04 - 05_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 04 - 14_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 05 - 06_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 05 - 08_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 06 - 07_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 06 - 11_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 07 - 08_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 08 - 09_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 09 - 39_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 10 - 11_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 10 - 13_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 13 - 14_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 14 - 15_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 15 - 16_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 16 - 17_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 16 - 19_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 16 - 21_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 16 - 24_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 17 - 18_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 17 - 27_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 21 - 22_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 22 - 23_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 23 - 24_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 25 - 26_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 26 - 27_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 26 - 28_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 26 - 29_Positive-Sequence Current, Magnitude/Terminal i in kA
+Line 28 - 29_Positive-Sequence Current, Magnitude/Terminal i in kA
+G 01_Speed in p.u.
+G 02_Speed in p.u.
+G 03_Speed in p.u.
+G 04_Speed in p.u.
+G 05_Speed in p.u.
+G 06_Speed in p.u.
+G 07_Speed in p.u.
+G 08_Speed in p.u.
+G 09_Speed in p.u.
+G 10_Speed in p.u.
+G 01_firel in deg
+G 02_firel in deg
+G 03_firel in deg
+G 04_firel in deg
+G 05_firel in deg
+G 06_firel in deg
+G 07_firel in deg
+G 08_firel in deg
+G 09_firel in deg
+G 10_firel in deg
+G 01_Positive-Sequence, Active Power in MW
+G 02_Positive-Sequence, Active Power in MW
+G 03_Positive-Sequence, Active Power in MW
+G 04_Positive-Sequence, Active Power in MW
+G 05_Positive-Sequence, Active Power in MW
+G 06_Positive-Sequence, Active Power in MW
+G 07_Positive-Sequence, Active Power in MW
+G 08_Positive-Sequence, Active Power in MW
+G 09_Positive-Sequence, Active Power in MW
+G 10_Positive-Sequence, Active Power in MW
+G 01_Positive-Sequence, Reactive Power in Mvar
+G 02_Positive-Sequence, Reactive Power in Mvar
+G 03_Positive-Sequence, Reactive Power in Mvar
+G 04_Positive-Sequence, Reactive Power in Mvar
+G 05_Positive-Sequence, Reactive Power in Mvar
+G 06_Positive-Sequence, Reactive Power in Mvar
+G 07_Positive-Sequence, Reactive Power in Mvar
+G 08_Positive-Sequence, Reactive Power in Mvar
+G 09_Positive-Sequence, Reactive Power in Mvar
+G 10_Positive-Sequence, Reactive Power in Mvar
+NSG_1_Active Power in MW
+NSG_2_Active Power in MW
+NSG_3_Active Power in MW
+NSG_1_Reactive Power in Mvar
+NSG_2_Reactive Power in Mvar
+NSG_3_Reactive Power in Mvar
+B_L03_Electrical Frequency in p.u.
+B_L04_Electrical Frequency in p.u.
+B_L07_Electrical Frequency in p.u.
+B_L08_Electrical Frequency in p.u.
+B_L12_Electrical Frequency in p.u.
+B_L15_Electrical Frequency in p.u.
+B_L16_Electrical Frequency in p.u.
+B_L18_Electrical Frequency in p.u.
+B_L20_Electrical Frequency in p.u.
+B_L21_Electrical Frequency in p.u.
+B_L23_Electrical Frequency in p.u.
+B_L24_Electrical Frequency in p.u.
+B_L25_Electrical Frequency in p.u.
+B_L26_Electrical Frequency in p.u.
+B_L27_Electrical Frequency in p.u.
+B_L28_Electrical Frequency in p.u.
+B_L29_Electrical Frequency in p.u.
+G 01_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 02_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 03_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 04_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 05_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 06_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 07_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 08_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 09_Excitation Current (non-reciprocal p.u. system) in p.u.
+G 10_Excitation Current (non-reciprocal p.u. system) in p.u.
+Trf Load_03_Tap 1, Current Position
+Trf Load_04_Tap 1, Current Position
+Trf Load_07_Tap 1, Current Position
+Trf Load_08_Tap 1, Current Position
+Trf Load_12_Tap 1, Current Position
+Trf Load_15_Tap 1, Current Position
+Trf Load_16_Tap 1, Current Position
+Trf Load_18_Tap 1, Current Position
+Trf Load_20_Tap 1, Current Position
+Trf Load_21_Tap 1, Current Position
+Trf Load_23_Tap 1, Current Position
+Trf Load_24_Tap 1, Current Position
+Trf Load_25_Tap 1, Current Position
+Trf Load_26_Tap 1, Current Position
+Trf Load_27_Tap 1, Current Position
+Trf Load_28_Tap 1, Current Position
+Trf Load_29_Tap 1, Current Position
+Line 01 - 02_Total Active Power/Terminal i in MW
+Line 01 - 39_Total Active Power/Terminal i in MW
+Line 02 - 03_Total Active Power/Terminal i in MW
+Line 02 - 25_Total Active Power/Terminal i in MW
+Line 03 - 04_Total Active Power/Terminal i in MW
+Line 03 - 18_Total Active Power/Terminal i in MW
+Line 04 - 05_Total Active Power/Terminal i in MW
+Line 04 - 14_Total Active Power/Terminal i in MW
+Line 05 - 06_Total Active Power/Terminal i in MW
+Line 05 - 08_Total Active Power/Terminal i in MW
+Line 06 - 07_Total Active Power/Terminal i in MW
+Line 06 - 11_Total Active Power/Terminal i in MW
+Line 07 - 08_Total Active Power/Terminal i in MW
+Line 08 - 09_Total Active Power/Terminal i in MW
+Line 09 - 39_Total Active Power/Terminal i in MW
+Line 10 - 11_Total Active Power/Terminal i in MW
+Line 10 - 13_Total Active Power/Terminal i in MW
+Line 13 - 14_Total Active Power/Terminal i in MW
+Line 14 - 15_Total Active Power/Terminal i in MW
+Line 15 - 16_Total Active Power/Terminal i in MW
+Line 16 - 17_Total Active Power/Terminal i in MW
+Line 16 - 19_Total Active Power/Terminal i in MW
+Line 16 - 21_Total Active Power/Terminal i in MW
+Line 16 - 24_Total Active Power/Terminal i in MW
+Line 17 - 18_Total Active Power/Terminal i in MW
+Line 17 - 27_Total Active Power/Terminal i in MW
+Line 21 - 22_Total Active Power/Terminal i in MW
+Line 22 - 23_Total Active Power/Terminal i in MW
+Line 23 - 24_Total Active Power/Terminal i in MW
+Line 25 - 26_Total Active Power/Terminal i in MW
+Line 26 - 27_Total Active Power/Terminal i in MW
+Line 26 - 28_Total Active Power/Terminal i in MW
+Line 26 - 29_Total Active Power/Terminal i in MW
+Line 28 - 29_Total Active Power/Terminal i in MW
+Line 01 - 02_Total Reactive Power/Terminal i in Mvar
+Line 01 - 39_Total Reactive Power/Terminal i in Mvar
+Line 02 - 03_Total Reactive Power/Terminal i in Mvar
+Line 02 - 25_Total Reactive Power/Terminal i in Mvar
+Line 03 - 04_Total Reactive Power/Terminal i in Mvar
+Line 03 - 18_Total Reactive Power/Terminal i in Mvar
+Line 04 - 05_Total Reactive Power/Terminal i in Mvar
+Line 04 - 14_Total Reactive Power/Terminal i in Mvar
+Line 05 - 06_Total Reactive Power/Terminal i in Mvar
+Line 05 - 08_Total Reactive Power/Terminal i in Mvar
+Line 06 - 07_Total Reactive Power/Terminal i in Mvar
+Line 06 - 11_Total Reactive Power/Terminal i in Mvar
+Line 07 - 08_Total Reactive Power/Terminal i in Mvar
+Line 08 - 09_Total Reactive Power/Terminal i in Mvar
+Line 09 - 39_Total Reactive Power/Terminal i in Mvar
+Line 10 - 11_Total Reactive Power/Terminal i in Mvar
+Line 10 - 13_Total Reactive Power/Terminal i in Mvar
+Line 13 - 14_Total Reactive Power/Terminal i in Mvar
+Line 14 - 15_Total Reactive Power/Terminal i in Mvar
+Line 15 - 16_Total Reactive Power/Terminal i in Mvar
+Line 16 - 17_Total Reactive Power/Terminal i in Mvar
+Line 16 - 19_Total Reactive Power/Terminal i in Mvar
+Line 16 - 21_Total Reactive Power/Terminal i in Mvar
+Line 16 - 24_Total Reactive Power/Terminal i in Mvar
+Line 17 - 18_Total Reactive Power/Terminal i in Mvar
+Line 17 - 27_Total Reactive Power/Terminal i in Mvar
+Line 21 - 22_Total Reactive Power/Terminal i in Mvar
+Line 22 - 23_Total Reactive Power/Terminal i in Mvar
+Line 23 - 24_Total Reactive Power/Terminal i in Mvar
+Line 25 - 26_Total Reactive Power/Terminal i in Mvar
+Line 26 - 27_Total Reactive Power/Terminal i in Mvar
+Line 26 - 28_Total Reactive Power/Terminal i in Mvar
+Line 26 - 29_Total Reactive Power/Terminal i in Mvar
+Line 28 - 29_Total Reactive Power/Terminal i in Mvar

@@ -1,0 +1,54 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data / generated datasets
+Windows/Tabular
+Windows/Temporal
+
+# Outputs / results
+Results/
+
+# Trained models and artefacts
+models/*.joblib
+models/*.pt
+models/*.pth
+models/*.ckpt
+models/*.onnx
+models/*.pkl
+
+# Generated tables / feature exports
+/Windows/
+models/*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Logs / temp
+*.log
+tmp/
+temp/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
