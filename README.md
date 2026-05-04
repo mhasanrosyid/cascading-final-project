@@ -59,4 +59,3 @@ Order of operations, if you wanted to reproduce the pipeline end-to-end:
 4. Run the leakage diagnostics (`find_leak.py`, `diagnose_group_leakage.py`, `diagnose_by_faulted_line.py`) before training anything.
 5. Train the models from `models/`. LogReg and XGBoost are quick on CPU. The CNN expects a CUDA GPU.
 
-If anything in here is unclear or broken, feel free to open an issue.
